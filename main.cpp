@@ -8,7 +8,7 @@
     The reason I chose merge sort is because it
     has a worst case, average case, and best case
     time complexity of nlogn which displays a strong
-    level of consistency when implementing this algorithm
+    level of consistency when implementing this algorithm.
 */
 #include <bits/stdc++.h>
 using namespace std;
