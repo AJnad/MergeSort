@@ -126,3 +126,7 @@ int main()
    return 0;
 }
 
+/*
+    unsorted linked list: 1 7 23 9 47 17
+    sorted linked list: 1 7 9 17 23 47                                                                                                                                                
+*/
